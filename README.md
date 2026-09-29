@@ -24,7 +24,7 @@
 
 <div align="center">
   <img
-    src="https://trophy.ryglcloud.net/?username=Blackholeisoka&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6&title=-Issues,-Reviews"
+    src="https://trophy.ryglcloud.net/?username=1soka&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6&title=-Issues,-Reviews"
     width="100%"
     alt="GitHub Trophies"
   />
