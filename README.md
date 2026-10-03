@@ -6,17 +6,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="60" alt="c" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="60" alt="c++" />
-<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white" height="60" alt="asm" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60" alt="python" />
-<img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" height="60" alt="shell" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="60" alt="linux" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="60" alt="vim" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="60" alt="react" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="60" alt="node" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="60" alt="postgresql" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="60" alt="git" />
+<img src="https://img.shields.io/badge/C-FA0FB5?style=for-the-badge&logo=c&logoColor=061047" height="60" alt="c" />
+<img src="https://img.shields.io/badge/C++-002CD1?style=for-the-badge&logo=cplusplus&logoColor=C5C8FC" height="60" alt="c++" />
+<img src="https://img.shields.io/badge/Assembly-061047?style=for-the-badge&logo=gnu&logoColor=4ADEF7" height="60" alt="asm" />
+<img src="https://img.shields.io/badge/Python-FA0FB5?style=for-the-badge&logo=python&logoColor=061047" height="60" alt="python" />
+<img src="https://img.shields.io/badge/Shell-002CD1?style=for-the-badge&logo=gnu-bash&logoColor=C5C8FC" height="60" alt="shell" />
+<img src="https://img.shields.io/badge/Linux-061047?style=for-the-badge&logo=linux&logoColor=4ADEF7" height="60" alt="linux" />
+<img src="https://img.shields.io/badge/Vim-FA0FB5?style=for-the-badge&logo=vim&logoColor=061047" height="60" alt="vim" />
+<img src="https://img.shields.io/badge/React-002CD1?style=for-the-badge&logo=react&logoColor=C5C8FC" height="60" alt="react" />
+<img src="https://img.shields.io/badge/Node.js-061047?style=for-the-badge&logo=node.js&logoColor=4ADEF7" height="60" alt="node" />
+<img src="https://img.shields.io/badge/PostgreSQL-FA0FB5?style=for-the-badge&logo=postgresql&logoColor=061047" height="60" alt="postgresql" />
+<img src="https://img.shields.io/badge/Git-002CD1?style=for-the-badge&logo=git&logoColor=C5C8FC" height="60" alt="git" />
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img
-    src="https://trophy.ryglcloud.net/?username=1soka&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6&title=-Issues,-Reviews"
+    src="https://trophy.ryglcloud.net/?username=1soka&theme=aura&no-frame=true&no-bg=true&margin-w=10&row=1&column=6&title=-Issues,-Reviews"
     width="100%"
     alt="GitHub Trophies"
   />
