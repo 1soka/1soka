@@ -1,6 +1,6 @@
 <!-- ============ GIF (right) ============ -->
 <div align="center">
-  <img src="banner.png" alt="1soka — Aspiring Systems Software Engineer" width="100%" />
+  <img src="banner.gif" alt="1soka — Aspiring Systems Software Engineer" width="100%" />
 </div>
 <h3 align="center">── Tech Stack 👀 ──</h3>
 
